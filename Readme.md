@@ -16,5 +16,5 @@ git commit -m"что сделали"
 4. отправить изменени яна сервер
 
 ‘‘‘
-git pushh origin maim
+git pushh origin main
 ‘‘‘
